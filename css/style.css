@@ -1,0 +1,44 @@
+body {
+	background: #22B573;
+}
+.navbar {
+	float: right;
+	margin-top: 95px;
+}
+.navbar li {
+	display: inline-block;
+	font-size: 48px;
+	margin-right: 75px;
+}
+.Logo {
+	height: 151px;
+	float: right;
+	padding: 89px 95px 0 0;
+}
+.container {
+	padding-top: 300px;
+	max-width: 1200px;
+	margin-left: 200px;	
+}
+.box-1 {
+	float: left;
+	width: 582px;	
+	background-color: #FCEE21;
+}
+.img1 {
+	float: right;
+}
+.box-2 {
+	float: right;
+	width: 582px;
+	background-color: #FCEE21;
+}
+.img2 {
+	float: left;
+}
+p {
+	padding: 15px;
+}
+img {
+	padding: 15px;
+}
