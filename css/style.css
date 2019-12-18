@@ -10,6 +10,9 @@ body {
 	font-size: 48px;
 	margin-right: 75px;
 }
+a {
+	color: #fff;
+}
 .Logo {
 	height: 151px;
 	float: right;
